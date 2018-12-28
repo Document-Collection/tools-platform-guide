@@ -87,7 +87,4 @@
 
 ## 片段实例
 
-自己定义了几个片段[snippets]()
-
-
-
+自己定义了几个片段[snippets](https://github.com/zjZSTU/vscode-guide/tree/master/snippets)
