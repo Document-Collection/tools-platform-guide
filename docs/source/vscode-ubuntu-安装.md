@@ -5,6 +5,19 @@
 
 ---
 
+## 系统要求
+
+参考：[Requirements for Visual Studio Code](https://code.visualstudio.com/docs/supporting/requirements)
+
+对于Ubuntu系统而言，版本要大于等于14.04
+
+还有一个就是
+
+    GLIBCXX version 3.4.15 or later
+    GLIBC version 2.15 or later
+
+---
+
 ## 安装
 
 有多种安装方式，使用最简单的一种
