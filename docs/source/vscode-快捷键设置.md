@@ -37,3 +37,35 @@
     $HOME/.config/Code/User/keybindings.json
 
 ![](./imgs/keybindings.png)
+
+---
+
+## 常用快捷键
+
+参考：[Navigating Code](https://code.visualstudio.com/docs/languages/cpp#_navigating-code)
+
+打开命令窗口：`Ctrl+Shift+P/Ctrl+P`
+
+新建文档：`Ctrl+N`
+
+新建窗口：`Ctrl+Shift+N`
+
+格式文档：`Ctrl+Shift+L`
+
+运行代码：`Ctrl+Alt+N`
+
+搜索符号：`Ctrl+Shift+O` - markdown中搜索标题，程序中搜索函数和变量声明，在命令窗口中以`@`开头
+
+查找工作空间：`Ctrl+T` - 全局搜索，类似于搜索符号，在命令窗口中以`#`开头
+
+查找当前文件：`Ctrl+F`
+
+查找上/下一个：`Shift+F3/F3`
+
+快速打开：`Ctrl+P`
+
+打开最近文档：`Ctrl+R`
+
+剪切：`Ctrl+X`
+
+跳转定义：`F12`
