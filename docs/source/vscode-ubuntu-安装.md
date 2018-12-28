@@ -1,5 +1,5 @@
 
-# Ubuntu系统下安装VSCode
+# `Ubuntu`系统下安装`VSCode`
 
 参考：[Visual Studio Code on Linux](https://code.visualstudio.com/docs/setup/linux)
 
@@ -9,7 +9,7 @@
 
 参考：[Requirements for Visual Studio Code](https://code.visualstudio.com/docs/supporting/requirements)
 
-对于Ubuntu系统而言，版本要大于等于14.04
+对于`Ubuntu`系统而言，版本要大于等于`14.04`
 
 还有一个就是
 
@@ -42,13 +42,13 @@
 
 参考：[How to update VS Code on Ubuntu?](https://askubuntu.com/questions/833448/how-to-update-vs-code-on-ubuntu)
 
-如果按照上述方式安装，那么系统包管理器会自动更新VSCode；也可以再次下载deb包，然后按照上述方式安装即可。
+如果按照上述方式安装，那么系统包管理器会自动更新`VSCode`；也可以再次下载`deb`包，然后按照上述方式安装即可。
 
 ---
 
 ## 设置默认编辑器
 
-设置VSCode为默认编辑器
+设置`VSCode`为默认编辑器
 
     sudo update-alternatives --set editor /usr/bin/code
 

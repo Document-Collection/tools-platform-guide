@@ -3,9 +3,9 @@
 操作：[Command line](https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_command-line)
 
 
-安装好visual studio code后，可以通过系统窗口打开，也可以在命令行打开
+安装好`visual studio code`后，可以通过系统窗口打开，也可以在命令行打开
 
-* 在当前目录下打开VSCode
+* 在当前目录下打开`VSCode`
 
         code .
 * 比较两个文件
