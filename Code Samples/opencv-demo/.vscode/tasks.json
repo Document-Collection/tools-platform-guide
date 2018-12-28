@@ -1,0 +1,27 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "main build",
+            "type": "shell",
+            "command": "g++ -g -o mm main.cpp hello.cpp `pkg-config --cflags --libs opencv` && ./mm",
+            "args": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "main test",
+            "type": "shell",
+            "command": "g++ -g main.cpp hello.cpp `pkg-config --cflags --libs opencv`",
+            "args": [],
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            }
+        }
+    ]
+}
