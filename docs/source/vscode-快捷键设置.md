@@ -6,7 +6,7 @@
 
 ## 概述
 
-`VSCode`默认使用`Visual Studio`的[快捷键模板]()，可以根据需要自定义快捷键，或者选择合适
+`VSCode`默认使用`Visual Studio`的[快捷键模板](https://github.com/zjZSTU/vscode-guide/blob/master/docs/source/ref/keyboard-shortcuts-windows.pdf)，可以根据需要自定义快捷键，或者选择合适
 的快捷键模板
 
 ---
