@@ -34,7 +34,7 @@
 
 ---
 
-## 智能提示
+## 智能感知和自动完成
 
 参考：
 
@@ -42,9 +42,9 @@
 
 [Configuring includePath for better IntelliSense results](https://github.com/Microsoft/vscode-cpptools/blob/master/Documentation/Getting%20started%20with%20IntelliSense%20configuration.md)
 
-安装完组件后，就可以进行`C++`编程了，最重要的是它能够提供智能提示功能，让你快速编程
+安装完组件后，就可以进行`C++`编程了，最重要的是它能够提供智能感知和自动完成功能，让你快速编程
 
-但有些时候，你引用的头文件/源文件不在当前工作空间内，此时无法实现智能提示，需要进一步进行配置
+但有些时候，你引用的头文件/源文件不在当前工作空间内，此时无法实现智能感知和自动完成，需要进一步进行配置
 
 打开命令窗口(`Ctrl+Shift+P`)，输入`C/Cpp:Edit configurations`，将会在`.vscode`文件夹内生成`c_cpp_properties.json`文件
 
