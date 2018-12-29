@@ -18,3 +18,4 @@ VSCode使用指南
    vscode-命令行操作
    vscode-代码片段 
    vscode-ubuntu-C++环境配置
+   vscode-ubuntu-Python环境配置
