@@ -28,5 +28,21 @@
 			"if __name__ == '__main__':",
 			"	$0"
 		]
+	},
+	"python cv start template": {
+		"prefix": "cv-pystd",
+		"scope": "python",
+		"body": [
+			"# -*- coding: utf-8 -*-",
+			"",
+			"import cv",
+			"import numpy as np",
+			"",
+			"__author__ = 'zj'",
+			"",
+			"",
+			"if __name__ == '__main__':",
+			"	$0"
+		]
 	}
 }

@@ -26,7 +26,7 @@
 		"scope": "cpp",
 		"body": [
 			"#include <iostream>",
-			"using namesapce std;",
+			"using namespace std;",
 			"",
 			"int main(int argc, char **argv){",
 			"	$0",
@@ -35,5 +35,22 @@
 			"}"
 		],
 		"description": "cpp start template"
+	},
+	"cpp cv start template": {
+		"prefix": "cv-cppstd",
+		"scope": "cpp",
+		"body": [
+			"#include <iostream>",
+			"#include <opencv2/opencv.hpp>",
+			"using namespace std;",
+			"using namespace cv;",
+			"",
+			"int main(int argc, char **argv){",
+			"	$0",
+			"",
+			"	return 0;",
+			"}"
+		],
+		"description": "cpp cv start template"
 	},
 }
