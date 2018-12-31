@@ -6,8 +6,9 @@
 
 ## 概述
 
-`VSCode`默认使用`Visual Studio`的[快捷键模板](https://github.com/zjZSTU/vscode-guide/blob/master/docs/source/ref/keyboard-shortcuts-windows.pdf)，可以根据需要自定义快捷键，或者选择合适
-的快捷键模板
+`VSCode`默认使用`Visual Studio`的[快捷键模板](https://github.com/zjZSTU/vscode-guide/blob/master/docs/source/ref/keyboard-shortcuts-windows.pdf)，可以根据需要自定义快捷键，或者选择合适的快捷键模板
+
+其`keybindings.json`文件在`~/.config/Code/User`路径下
 
 ---
 
@@ -37,6 +38,10 @@
     $HOME/.config/Code/User/keybindings.json
 
 ![](./imgs/keybindings.png)
+
+### 快捷键冲突
+
+有两种情况，一种是已有的其他快捷键冲突，另一种是和系统设置的快捷键冲突
 
 ---
 
@@ -88,4 +93,9 @@
 
 ### 窗口开/关
 
-打开/关闭面板：Ctrl+`
+打开/关闭面板：`Ctrl+`
+
+### 文档操作
+
+回到上一步：`Ctrl+Shift+left`
+回到下一步：`Ctrl+Shift+right`
