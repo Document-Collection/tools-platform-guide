@@ -50,6 +50,8 @@
         "editor.wordWrap": "wordWrapColumn",
         "editor.wordWrapColumn": 80,
         "workbench.colorTheme": "Monokai"
+        "window.openFilesInNewWindow": "on"
+    }
 
 工作空间配置文件在当前目录的`.vscode`文件夹内
 
