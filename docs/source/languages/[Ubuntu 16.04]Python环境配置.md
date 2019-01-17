@@ -1,4 +1,4 @@
-# 在`Ubuntu`下配置`VSCode Python`环境
+# [Ubuntu 16.04]Python环境配置
 
 参考：
 

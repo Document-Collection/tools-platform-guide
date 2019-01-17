@@ -1,5 +1,5 @@
 
-# 在`Ubuntu`下配置`VSCode C++`环境
+# [Ubuntu 16.04]C++环境配置
 
 参考：
 

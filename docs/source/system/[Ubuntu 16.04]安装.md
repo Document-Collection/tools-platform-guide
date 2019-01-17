@@ -1,5 +1,5 @@
 
-# `Ubuntu`系统下安装`VSCode`
+# [Ubuntu 16.04]安装
 
 参考：[Visual Studio Code on Linux](https://code.visualstudio.com/docs/setup/linux)
 

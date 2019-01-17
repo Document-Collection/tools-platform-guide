@@ -10,12 +10,5 @@ VSCode使用指南
    :maxdepth: 2
    :caption: 目录:
 
-   vscode-引言 
-   vscode-ubuntu-安装
-   vscode-布局
-   vscode-用户和工作空间设置
-   vscode-快捷键设置
-   vscode-命令行操作
-   vscode-代码片段 
-   vscode-ubuntu-C++环境配置
-   vscode-ubuntu-Python环境配置
+   system
+   languages 
