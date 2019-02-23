@@ -6,3 +6,4 @@
 
    languages/[Ubuntu 16.04]C++环境配置
    languages/[Ubuntu 16.04]Python环境配置
+   languages/[Ubuntu 16.04][OpenCV 3.4.2]pylint检测错误
