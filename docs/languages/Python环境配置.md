@@ -1,4 +1,4 @@
-# [Ubuntu 16.04]Python环境配置
+# Python环境配置
 
 参考：
 

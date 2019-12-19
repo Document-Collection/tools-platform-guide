@@ -1,5 +1,5 @@
 
-# git设置
+# Git设置
 
 参考：[Using Version Control in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol#_scm-providers)
 
