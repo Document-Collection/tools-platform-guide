@@ -36,8 +36,7 @@
 编译文档需要预先安装以下工具：
 
 ```
-$ pip install -U Sphinx
-$ sudo apt-get install make
+$ pip install mkdocs
 ```
 
 ## 用法
@@ -56,10 +55,10 @@ $ sudo apt-get install make
 
     ```
     $ git clone https://github.com/zjZSTU/vscode-guide.git
-    $ cd vscode-guide/docs
-    $ make html
+    $ cd vscode-guide
+    $ mkdocs serve
     ```
-    编译完成后进入`docs/build/html`目录，打开`index.html`文件
+   启动本地服务器后即可登录浏览器`localhost:8000`
 
 ## 主要维护人员
 
