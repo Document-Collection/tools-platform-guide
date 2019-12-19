@@ -1,5 +1,5 @@
 
-# [Ubuntu 16.04][OpenCV 3.4.2]pylint检测错误
+# [OpenCV 3.4.2]pylint检测错误
 
 利用`opencv`源码编译好`python`库后，配置在`anaconda`包中，在`vscode`上编辑`python`文件，出现如下问题：
 

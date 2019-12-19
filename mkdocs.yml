@@ -1,0 +1,47 @@
+# 站点名称
+site_name: 'VSCode Guide'
+# 仓库链接
+repo_url: https://github.com/zjZSTU/vscode-guide.git
+# 作者
+site_author: 'zhujian'
+# 版权信息
+copyright: '2019, zhujian'
+# 源文件目录
+docs_dir: 'docs'
+# 生成静态文件目录
+site_dir: 'site'
+# 额外信息
+extra:
+    # 版本号
+    version: 0.2.0
+# 主题
+theme: 
+    # name: 'readthedocs'
+    # name: 'mkdocs'
+    name: 'material'
+# markdown扩展
+markdown_extensions:
+    - toc:
+        permalink: true
+    - pymdownx.arithmatex
+
+extra_javascript:
+    - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+# 导航
+nav:
+    - Home: index.md
+    - 系统:
+        - '引言': './system/引言.md'
+        - '安装': './system/安装.md'
+        - '布局': './system/布局.md'
+        - '用户和工作空间设置': './system/用户和工作空间设置.md'
+        - '快捷键设置': './system/快捷键设置.md'
+        - '命令行操作': './system/命令行操作.md'
+        - '代码片段': './system/代码片段.md'
+        - 'tab键失效': './system/tab键失效.md'
+    - 语言:
+        - 'C++环境配置': './languages/C++环境配置.md'
+        - 'Python环境配置': './languages/Python环境配置.md'
+        - '[OpenCV 3.4.2]pylint检测错误': './languages/[OpenCV 3.4.2]pylint检测错误.md'
+    - 插件:
+        - 'Git设置': './third/git设置.md'
