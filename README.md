@@ -6,10 +6,13 @@
 
 小结开发工具以及开发平台的配置和使用
 
-1. [VSCode](https://vscode-guide.readthedocs.io/zh_CN/latest/vscode/)
-2. [NodeJS](https://vscode-guide.readthedocs.io/zh_CN/latest/node/nodeJS%E5%AE%89%E8%A3%85/)
-3. [Jupyter](https://vscode-guide.readthedocs.io/zh_CN/latest/jupyter/[conda]JupyterLab%E5%AE%89%E8%A3%85/)
-4. [Anaconda](https://vscode-guide.readthedocs.io/zh_CN/latest/anaconda/%E7%8E%AF%E5%A2%83%E6%9F%A5%E8%AF%A2%EF%BC%8C%E5%AE%89%E8%A3%85%EF%BC%8C%E5%8D%B8%E8%BD%BD%EF%BC%8C%E5%85%8B%E9%9A%86/)
+* 开发工具
+    - [VSCode](https://vscode-guide.readthedocs.io/zh_CN/latest/vscode/)
+    - [Jupyter](https://vscode-guide.readthedocs.io/zh_CN/latest/jupyter/[conda]JupyterLab%E5%AE%89%E8%A3%85/)
+    - [CLion](https://vscode-guide.readthedocs.io/zh_CN/latest/clion/安装/)
+* 开发平台
+    - [NodeJS](https://vscode-guide.readthedocs.io/zh_CN/latest/node/nodeJS%E5%AE%89%E8%A3%85/)
+    - [Anaconda](https://vscode-guide.readthedocs.io/zh_CN/latest/anaconda/%E7%8E%AF%E5%A2%83%E6%9F%A5%E8%AF%A2%EF%BC%8C%E5%AE%89%E8%A3%85%EF%BC%8C%E5%8D%B8%E8%BD%BD%EF%BC%8C%E5%85%8B%E9%9A%86/)
 
 仓库中还包含了`VSCode`的代码实例和代码片段（`C++/Python`，位于`vscode`目录下）
 
