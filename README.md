@@ -1,20 +1,17 @@
-# vscode-guide
+# tools-platform-guide
 
 [![Documentation Status](https://readthedocs.org/projects/vscode-guide/badge/?version=latest)](https://vscode-guide.readthedocs.io/zh_CN/latest/?badge=latest) [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme) [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-> VSCode使用
+> 工具和平台配置
 
-仓库中包含以下内容：
+小结开发工具以及开发平台的配置和使用
 
-* 代码实例
-* 代码片段
-* 文档
+1. [VSCode](https://vscode-guide.readthedocs.io/zh_CN/latest/vscode/)
+2. [NodeJS](https://vscode-guide.readthedocs.io/zh_CN/latest/node/nodeJS%E5%AE%89%E8%A3%85/)
+3. [Jupyter](https://vscode-guide.readthedocs.io/zh_CN/latest/jupyter/[conda]JupyterLab%E5%AE%89%E8%A3%85/)
+4. [Anaconda](https://vscode-guide.readthedocs.io/zh_CN/latest/anaconda/%E7%8E%AF%E5%A2%83%E6%9F%A5%E8%AF%A2%EF%BC%8C%E5%AE%89%E8%A3%85%EF%BC%8C%E5%8D%B8%E8%BD%BD%EF%BC%8C%E5%85%8B%E9%9A%86/)
 
-文档包含以下内容：
-
-1. 系统相关
-2. 语言设置
-3. 插件设置
+仓库中还包含了`VSCode`的代码实例和代码片段（`C++/Python`，位于`vscode`目录下）
 
 ## 内容列表
 
@@ -31,6 +28,8 @@
 
 [VSCode](https://code.visualstudio.com/)确实极大的提高了文档编辑体验，不过要自定义编辑环境、配置不同语言集成还需要好好学习一番
 
+*本仓库最开始用于管理`VSCode`文档和代码，之后逐渐扩充到多个工具和开发平台的配置*
+
 # 安装
 
 编译文档需要预先安装以下工具：
@@ -41,24 +40,18 @@ $ pip install mkdocs
 
 ## 用法
 
-`C++`配置实例参考[Code Samples](https://github.com/zjZSTU/vscode-guide/tree/master/Code%20Samples)
-
-`Python`配置实例参考[python-samples/first](https://github.com/zjZSTU/vscode-guide/tree/master/python-samples/first)
-
-代码片段实例参考[snippets](https://github.com/zjZSTU/vscode-guide/tree/master/snippets)
-
 文档有两种使用方式
 
-1. 在线浏览文档：[VSCode使用指南](https://vscode-guide.readthedocs.io/zh_CN/latest/?badge=latest)
+1. 在线浏览文档：[Tools&Plat Guide](https://vscode-guide.readthedocs.io/zh_CN/latest/?badge=latest)
 
-2. 本地生成文档，实现如下：
+2. 本地浏览文档，实现如下：
 
     ```
-    $ git clone https://github.com/zjZSTU/vscode-guide.git
-    $ cd vscode-guide
+    $ git clone https://github.com/zjZSTU/tools-platform-guide.git
+    $ cd tools-platform-guide
     $ mkdocs serve
     ```
-   启动本地服务器后即可登录浏览器`localhost:8000`
+    启动本地服务器后即可登录浏览器`localhost:8000`
 
 ## 主要维护人员
 
