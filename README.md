@@ -10,9 +10,12 @@
     - [VSCode](https://vscode-guide.readthedocs.io/zh_CN/latest/vscode/)
     - [Jupyter](https://vscode-guide.readthedocs.io/zh_CN/latest/jupyter/[conda]JupyterLab%E5%AE%89%E8%A3%85/)
     - [CLion](https://vscode-guide.readthedocs.io/zh_CN/latest/clion/安装/)
+    - [Android Studio](https://vscode-guide.readthedocs.io/zh_CN/latest/android/android-studio/[Ubuntu]Android%20Studio%E5%AE%89%E8%A3%85/)
 * 开发平台
     - [NodeJS](https://vscode-guide.readthedocs.io/zh_CN/latest/node/nodeJS%E5%AE%89%E8%A3%85/)
     - [Anaconda](https://vscode-guide.readthedocs.io/zh_CN/latest/anaconda/%E7%8E%AF%E5%A2%83%E6%9F%A5%E8%AF%A2%EF%BC%8C%E5%AE%89%E8%A3%85%EF%BC%8C%E5%8D%B8%E8%BD%BD%EF%BC%8C%E5%85%8B%E9%9A%86/)
+    - [Gradle](https://vscode-guide.readthedocs.io/zh_CN/latest/android/gradle/[Ubuntu]gradle%E5%90%8C%E6%AD%A5%E5%A4%B1%E8%B4%A5/)
+    - [NDK](https://vscode-guide.readthedocs.io/zh_CN/latest/android/ndk/NDK%E5%BC%80%E5%8F%91%E6%A6%82%E8%BF%B0/)
 
 仓库中还包含了`VSCode`的代码实例和代码片段（`C++/Python`，位于`vscode`目录下）
 
