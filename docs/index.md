@@ -7,9 +7,12 @@
     - [Visual Studio Code](./vscode/index.md)
     - [Jupyter](./jupyter/[conda]JupyterLab安装.md)
     - [CLion](./clion/安装.md)
+    - [Android Studio](./android/android-studio/[Ubuntu]Android Studio安装.md)
 * 开发平台
     - [NodeJS](./node/nodeJS安装.md)
     - [Anaconda](./anaconda/环境查询，安装，卸载，克隆.md)
+    - [Gradle](./android/gradle/[Ubuntu]gradle同步失败.md)
+    - [NDK](./android/ndk/NDK开发概述.md)
 
 相关文档:
 

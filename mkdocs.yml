@@ -58,6 +58,9 @@ nav:
             - '安装': './clion/安装.md'
             - 'OpenCV配置': './clion/OpenCV配置.md'
             - 'could not load cache': './clion/Error: could not load cache.md'
+        - 'Android Studio':
+            '安装': './android/android-studio/[Ubuntu]Android Studio安装.md'
+            '[Ubuntu]启动器制作': './android/android-studio/[Ubuntu]启动器制作.md'
     - 开发平台:
         - NodeJS:
             - 'nodeJS安装': './node/nodeJS安装.md'
@@ -72,3 +75,11 @@ nav:
             - '卸载包': './anaconda/卸载包.md'
             - '查询、安装指定版本': './anaconda/查询、安装指定版本.md'
             - '配置国内镜像源': './anaconda/配置国内镜像源.md'
+        - Gradle:
+            - '[Ubuntu]gradle同步失败': './android/gradle/[Ubuntu]gradle同步失败.md'
+        - NDK:
+            - 'NDK开发概述': './android/ndk/NDK开发概述.md'
+            - 'ndk-build编译失败': './android/ndk/ndk-build编译失败.md'
+            - '[Ubuntu]android studio配置javah和ndk-build': './android/ndk/[Ubuntu]android studio配置javah和ndk-build.md'
+            - '[Ubuntu]NDK配置OpenCV': './android/ndk/[Ubuntu]NDK配置OpenCV.md'
+            - 'libopencv_java3.so not found': './android/ndk/libopencv_java3.so not found.md'
