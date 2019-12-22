@@ -1,7 +1,7 @@
 # 站点名称
-site_name: 'VSCode Guide'
+site_name: 'Tools&Platform Guide'
 # 仓库链接
-repo_url: https://github.com/zjZSTU/vscode-guide.git
+repo_url: https://github.com/zjZSTU/tools-platform-guide.git
 # 作者
 site_author: 'zhujian'
 # 版权信息
@@ -30,18 +30,20 @@ extra_javascript:
 # 导航
 nav:
     - Home: index.md
-    - 系统:
-        - '引言': './system/引言.md'
-        - '安装': './system/安装.md'
-        - '布局': './system/布局.md'
-        - '用户和工作空间设置': './system/用户和工作空间设置.md'
-        - '快捷键设置': './system/快捷键设置.md'
-        - '命令行操作': './system/命令行操作.md'
-        - '代码片段': './system/代码片段.md'
-        - 'tab键失效': './system/tab键失效.md'
-    - 语言:
-        - 'C++环境配置': './languages/C++环境配置.md'
-        - 'Python环境配置': './languages/Python环境配置.md'
-        - '[OpenCV 3.4.2]pylint检测错误': './languages/[OpenCV 3.4.2]pylint检测错误.md'
-    - 插件:
-        - 'Git设置': './third/git设置.md'
+    - VSCode: 
+        - Home: './vscode/index.md'
+        - 系统:
+            - '引言': './vscode/system/引言.md'
+            - '安装': './vscode/system/安装.md'
+            - '布局': './vscode/system/布局.md'
+            - '用户和工作空间设置': './vscode/system/用户和工作空间设置.md'
+            - '快捷键设置': './vscode/system/快捷键设置.md'
+            - '命令行操作': './vscode/system/命令行操作.md'
+            - '代码片段': './vscode/system/代码片段.md'
+            - 'tab键失效': './vscode/system/tab键失效.md'
+        - 语言:
+            - 'C++环境配置': './vscode/languages/C++环境配置.md'
+            - 'Python环境配置': './vscode/languages/Python环境配置.md'
+            - '[OpenCV 3.4.2]pylint检测错误': './vscode/languages/[OpenCV 3.4.2]pylint检测错误.md'
+        - 插件:
+            - 'Git设置': './vscode/third/git设置.md'
