@@ -45,7 +45,7 @@ $ pip install mkdocs
 
 文档有两种使用方式
 
-1. 在线浏览文档：[Tools&Plat Guide](https://vscode-guide.readthedocs.io/zh_CN/latest/?badge=latest)
+1. 在线浏览文档：[Tools&Platform Guide](https://vscode-guide.readthedocs.io/zh_CN/latest/?badge=latest)
 
 2. 本地浏览文档，实现如下：
 
