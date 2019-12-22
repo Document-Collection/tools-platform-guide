@@ -47,3 +47,22 @@ nav:
             - '[OpenCV 3.4.2]pylint检测错误': './vscode/languages/[OpenCV 3.4.2]pylint检测错误.md'
         - 插件:
             - 'Git设置': './vscode/third/git设置.md'
+    - NodeJS:
+        - 'nodeJS安装': './node/nodeJS安装.md'
+        - 'nodeJS初始化': './node/nodeJS初始化.md'
+        - 'npm和cnpm': './node/npm和cnpm.md'
+        - '[npm]查询': './node/[npm]查询.md'
+        - '[npm]安装': './node/[npm]安装.md'
+        - '[npm]卸载': './node/[npm]卸载.md'
+        - '[package.json]脚本运行': './node/[package.json]脚本运行.md'
+    - Jupyter:
+        - '[conda]JupyterLab安装': './jupyter/[conda]JupyterLab安装.md'
+        - '远程访问配置': './jupyter/远程访问配置.md'
+        - '基本功能介绍': './jupyter/基本功能介绍.md'
+        - '[PEP8]代码格式化': './jupyter/[PEP8]代码格式化.md'
+        - '目录生成插件': './jupyter/目录生成插件.md'
+    - Anaconda:
+        - '环境查询，安装，卸载，克隆': './anaconda/环境查询，安装，卸载，克隆.md'
+        - '卸载包': './anaconda/卸载包.md'
+        - '查询、安装指定版本': './anaconda/查询、安装指定版本.md'
+        - '配置国内镜像源': './anaconda/配置国内镜像源.md'
