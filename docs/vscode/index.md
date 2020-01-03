@@ -5,7 +5,7 @@
 
 * [System](./system/引言.md)
 * [Languages](./languages/C++环境配置.md)
-* [Plugins](./third/git设置.md)
+* [Extensions](./extensions/git设置.md)
 
 相关链接
 
