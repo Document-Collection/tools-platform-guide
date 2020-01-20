@@ -76,6 +76,7 @@ nav:
             - '卸载包': './anaconda/卸载包.md'
             - '查询、安装指定版本': './anaconda/查询、安装指定版本.md'
             - '配置国内镜像源': './anaconda/配置国内镜像源.md'
+            - 'conda安装环境报错': './anaconda/conda安装环境报错.md'
         - Gradle:
             - '[Ubuntu]gradle同步失败': './android/gradle/[Ubuntu]gradle同步失败.md'
         - NDK:
