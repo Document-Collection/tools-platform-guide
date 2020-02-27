@@ -55,10 +55,11 @@ nav:
                     - '基本功能介绍': './jupyter/基本功能介绍.md'
                     - '[PEP8]代码格式化': './jupyter/[PEP8]代码格式化.md'
                     - '目录生成插件': './jupyter/目录生成插件.md'
-        - CLion:
-            - '安装': './clion/安装.md'
-            - 'OpenCV配置': './clion/OpenCV配置.md'
-            - 'could not load cache': './clion/Error: could not load cache.md'
+        - JetBrains:
+            - '安装': './jetbrains/安装.md'
+            - CLion:
+                - 'OpenCV配置': './jetbrains/clion-OpenCV配置.md'
+                - 'could not load cache': './jetbrains/clion-Error: could not load cache.md'
         - 'Android Studio':
             '安装': './android/android-studio/[Ubuntu]Android Studio安装.md'
             '[Ubuntu]启动器制作': './android/android-studio/[Ubuntu]启动器制作.md'

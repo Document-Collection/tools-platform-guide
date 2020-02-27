@@ -1,5 +1,5 @@
 
-# OpenCV配置
+# [Clion]OpenCV配置
 
 `CLion`使用`cmake`作为配置工具，新建工程`first`，默认`CMakeLists.txt`如下：
 

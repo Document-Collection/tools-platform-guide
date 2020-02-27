@@ -6,7 +6,7 @@
 * 开发工具
     - [Visual Studio Code](./vscode/index.md)
     - [Jupyter](./jupyter/[conda]JupyterLab安装.md)
-    - [CLion](./clion/安装.md)
+    - [JetBrains](./jetbrains/安装.md)
     - [Android Studio](./android/android-studio/[Ubuntu]Android Studio安装.md)
 * 开发平台
     - [NodeJS](./node/nodeJS安装.md)
