@@ -7,7 +7,7 @@
 小结开发工具以及开发平台的配置和使用
 
 * 开发工具
-    - [VSCode](https://tools-platform-guide.readthedocs.io/zh_CN/latest/vscode/)
+    - [JetBrains](https://tools-platform-guide.readthedocs.io/zh_CN/latest/jetbrains/%E5%AE%89%E8%A3%85/)
     - [Jupyter](https://tools-platform-guide.readthedocs.io/zh_CN/latest/jupyter/[conda]JupyterLab%E5%AE%89%E8%A3%85/)
     - [CLion](https://tools-platform-guide.readthedocs.io/zh_CN/latest/clion/安装/)
     - [Android Studio](https://tools-platform-guide.readthedocs.io/zh_CN/latest/android/android-studio/[Ubuntu]Android%20Studio%E5%AE%89%E8%A3%85/)
