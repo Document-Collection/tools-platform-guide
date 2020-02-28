@@ -57,6 +57,7 @@ nav:
                     - '目录生成插件': './jupyter/目录生成插件.md'
         - JetBrains:
             - '安装': './jetbrains/安装.md'
+            - '学生认证': './jetbrains/学生认证.md'
             - CLion:
                 - 'OpenCV配置': './jetbrains/clion-OpenCV配置.md'
                 - 'could not load cache': './jetbrains/clion-Error: could not load cache.md'
