@@ -16,5 +16,5 @@
 
 相关文档:
 
-* [jupyter-notebook远程登录](https://www.zhujian.tech/posts/5e96fc4f.html)
-* [[pycharm]远程编译](https://www.zhujian.tech/posts/a6c06fb8.html)
+* [jupyter-notebook远程登录](https://blog.zhujian.life/posts/5e96fc4f.html)
+* [[pycharm]远程编译](https://blog.zhujian.life/posts/a6c06fb8.html)
