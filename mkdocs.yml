@@ -62,6 +62,8 @@ nav:
             - CLion:
                 - 'OpenCV配置': './jetbrains/clion-OpenCV配置.md'
                 - 'could not load cache': './jetbrains/clion-Error: could not load cache.md'
+            - PyCharm:
+                - '[PyCharm]pytest设置和使用': './jetbrains/pycharm-pytest设置和使用.md'
         - 'Android Studio':
             '安装': './android/android-studio/[Ubuntu]Android Studio安装.md'
             '[Ubuntu]启动器制作': './android/android-studio/[Ubuntu]启动器制作.md'
