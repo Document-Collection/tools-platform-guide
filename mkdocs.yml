@@ -86,6 +86,7 @@ nav:
             - 'conda安装环境报错': './anaconda/conda安装环境报错.md'
             - '[conda clean]环境清理': './anaconda/[conda clean]环境清理.md'
             - 'Miniconda': './anaconda/Miniconda.md'
+            - 环境迁移: anaconda/环境迁移.md
         - Gradle:
             - '[Ubuntu]gradle同步失败': './android/gradle/[Ubuntu]gradle同步失败.md'
         - NDK:
