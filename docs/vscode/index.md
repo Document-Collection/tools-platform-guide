@@ -6,6 +6,7 @@
 * [System](./system/引言.md)
 * [Languages](./languages/C++环境配置.md)
 * [Extensions](./extensions/git设置.md)
+* [Custom](./custom/显示隐藏文件.md)
 
 相关链接
 
