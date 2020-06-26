@@ -101,3 +101,4 @@ nav:
                 - 安装: './nvidia/tlt/install.md'
                 - 训练流程: './nvidia/tlt/process.md'
                 - 准备训练数据: './nvidia/tlt/data.md'
+                - 准备预训练模型: './nvidia/tlt/pretrained.md'
