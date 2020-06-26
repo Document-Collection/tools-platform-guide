@@ -95,3 +95,6 @@ nav:
             - '[Ubuntu]android studio配置javah和ndk-build': './android/ndk/[Ubuntu]android studio配置javah和ndk-build.md'
             - '[Ubuntu]NDK配置OpenCV': './android/ndk/[Ubuntu]NDK配置OpenCV.md'
             - 'libopencv_java3.so not found': './android/ndk/libopencv_java3.so not found.md'
+        - Nvidia:
+            - TLT:
+                - 引言: './nvidia/tlt/index.md'
