@@ -78,6 +78,7 @@ nav:
             - '[npm]安装': './node/[npm]安装.md'
             - '[npm]卸载': './node/[npm]卸载.md'
             - '[package.json]脚本运行': './node/[package.json]脚本运行.md'
+            - '[pkg]打包可执行文件': './node/[pkg]打包可执行文件.md'
         - Anaconda:
             - '环境查询，安装，卸载，克隆': './anaconda/环境查询，安装，卸载，克隆.md'
             - '卸载包': './anaconda/卸载包.md'
